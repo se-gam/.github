@@ -59,4 +59,4 @@
 </table>
 
 ## Stories
-- [세종소식](http://www.sejongpr.ac.kr/sejongwebzinenewspaperview.do?pkid=60028)
+- [세종소식](http://www.sejongpr.ac.kr/sejongwebzinenewspaperview.do?pkid=60028#:~:text=%EC%84%B8%EA%B0%90)
