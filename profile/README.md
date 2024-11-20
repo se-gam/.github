@@ -24,6 +24,9 @@
         <b>학술정보원 스터디룸 예약 및 확인<b/>
       </td>
       <td>
+        <b>고전독서 인증<b/>
+      </td>
+          <td>
         <b>점심 메뉴 추천<b/>
       </td>
     </tr>
@@ -36,8 +39,12 @@
       <img src="https://github.com/user-attachments/assets/78a2ab8c-c65a-48fe-afde-a5a97abb2fec" width="390" />
     </td>
     <td>
+        <img src="https://github.com/user-attachments/assets/25da2cb5-74b7-41e9-b9bf-f4a246362c3e" width ="390" />
+    </td>
+    <td>
       <img src="https://github.com/user-attachments/assets/bba8c2ee-5068-4ff7-9633-36e3941c6f6b" width ="390" />
     </td>
+    
   </tr>
 </table>
 
