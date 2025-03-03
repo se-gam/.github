@@ -56,6 +56,8 @@
 <td align="center"><a href="https://github.com/ironAiken2"><img src="https://avatars.githubusercontent.com/u/51399982?v=4" width="100px;" alt=""/><br /><sub><b>ironAiken2</b></sub></a></td>
   <td align="center"><a href="https://github.com/luciancah"><img src="https://avatars.githubusercontent.com/u/8311335?v=4" width="100px;" alt=""/><br /><sub><b>luciancah</b></sub></a></td>
   <td align="center"><a href="https://github.com/seunghui-park"><img src="https://avatars.githubusercontent.com/u/159995296?v=4" width="100px;" alt=""/><br /><sub><b>seunghui-park</b></sub></a></td>
+</td>
+  <td align="center"><a href="https://github.com/tnqkr3494"><img src="https://avatars.githubusercontent.com/u/105264785?v=4" width="100px;" alt=""/><br /><sub><b>Chuck</b></sub></a></td>
 </tr>
 </table>
 
