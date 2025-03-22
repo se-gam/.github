@@ -66,6 +66,7 @@
 <tr>
 <td align="center"><a href="https://github.com/RightHennessy"><img src="https://avatars.githubusercontent.com/u/88828858?v=4" width="100px;" alt=""/><br /><sub><b>RightHennessy</b></sub></a></td>
 <td align="center"><a href="https://github.com/therealjamesjung"><img src="https://avatars.githubusercontent.com/u/39877377?v=4" width="100px;" alt=""/><br /><sub><b>therealjamesjung</b></sub></a></td>
+<td align="center"><a href="https://github.com/Im-Siyoun"><img src="https://avatars.githubusercontent.com/u/74858992?v=4" width="100px;" alt=""/><br /><sub><b>Im-Siyoun</b></sub></a></td>
 </table>
 
 ## Stories
